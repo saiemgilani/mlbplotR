@@ -66,6 +66,32 @@ teams_colors_logos <- mlbplotR::load_mlb_teams() |>
 There is a [getting started guide](https://camdenk.github.io/mlbplotR/articles/mlbplotR.html) that will walk you through more use cases for the package.
 
 
+## Cheat sheet
+
+A printable one-page reference for `mlbplotR` — the scales, geoms and gt
+helpers — is available as a free PDF:
+
+📄 **[Download the mlbplotR cheat sheet (PDF)](https://sportsdataverse.org/cheatsheets/mlbplotR.pdf)**
+
+Light and dark, US Letter landscape. It sits alongside sheets for the other
+SportsDataverse packages at
+**[sportsdataverse.org/cheatsheets](https://sportsdataverse.org/cheatsheets)**.
+
+## Citation
+
+To cite the `mlbplotR` R package in publications, use:
+
+``` bibtex
+@misc{kay_mlbplotR,
+  author = {Camden Kay and Sebastian Carl},
+  title = {mlbplotR: Create 'ggplot2' and 'gt' Visuals with Major League Baseball Logos.},
+  url = {https://camdenk.github.io/mlbplotR/},
+  year = {2022}
+}
+```
+
+`citation("mlbplotR")` returns the same entry with the installed version.
+
 ## Contributing
 
 -   [Open an issue](https://github.com/camdenk/mlbplotR/issues/new/choose) if you'd like to request specific data or report a bug/error.
