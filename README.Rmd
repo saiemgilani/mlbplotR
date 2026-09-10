@@ -90,7 +90,7 @@ To cite the `mlbplotR` R package in publications, use:
 }
 ```
 
-`citation("mlbplotR")` returns the same entry with the installed version.
+`citation("mlbplotR")` returns this entry with the installed version number attached.
 
 ## Contributing
 
