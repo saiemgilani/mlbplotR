@@ -85,6 +85,7 @@ To cite the `mlbplotR` R package in publications, use:
   author = {Camden Kay and Sebastian Carl},
   title = {mlbplotR: Create 'ggplot2' and 'gt' Visuals with Major League Baseball Logos.},
   url = {https://camdenk.github.io/mlbplotR/},
+  doi = {10.32614/CRAN.package.mlbplotR},
   year = {2022}
 }
 ```

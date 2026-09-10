@@ -15,6 +15,7 @@ bibentry(
   ),
   title    = "mlbplotR: Create 'ggplot2' and 'gt' Visuals with Major League Baseball Logos.",
   url      = "https://camdenk.github.io/mlbplotR/",
+  doi      = "10.32614/CRAN.package.mlbplotR",
   year     = year,
   note     = note,
   textVersion = paste0(
